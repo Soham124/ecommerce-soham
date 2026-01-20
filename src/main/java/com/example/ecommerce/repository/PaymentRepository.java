@@ -1,6 +1,6 @@
 package com.example.ecommerce.repository;
 
-import com.example.ecommerce.model.Payment;
+import com.example.ecommerce.model.*;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

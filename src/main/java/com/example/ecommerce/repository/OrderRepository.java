@@ -1,6 +1,6 @@
 package com.example.ecommerce.repository;
 
-import com.example.ecommerce.model.Order;
+import com.example.ecommerce.model.*;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 
